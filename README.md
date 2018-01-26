@@ -6,3 +6,4 @@
 * [Code Review](https://www.youtube.com/watch?v=jh43AfVD6qo&t=1s&index=11&list=WL)
 * [Chrome Debugger (really basic)](https://www.youtube.com/watch?v=3k2kBgZOvNM)
 * [Visual Studio Code](https://www.youtube.com/watch?v=anvYeA1pWlk)
+* [Typescript](https://www.youtube.com/watch?v=vxvQPHFJDRo&list=WL&index=16)
