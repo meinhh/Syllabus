@@ -8,3 +8,4 @@
 * [Visual Studio Code](https://www.youtube.com/watch?v=anvYeA1pWlk)
 * [Typescript](https://www.youtube.com/watch?v=vxvQPHFJDRo&list=WL&index=16)
 * [Null Undefined and NaN](https://getpocket.com/a/read/2131347477)
+* [Containers For Existing .NET Apps](https://www.youtube.com/watch?v=p8cAYgBIER8&list=WL&index=31)
