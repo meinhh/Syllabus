@@ -9,3 +9,4 @@
 * [Typescript](https://www.youtube.com/watch?v=vxvQPHFJDRo&list=WL&index=16)
 * [Null Undefined and NaN](https://getpocket.com/a/read/2131347477)
 * [Containers For Existing .NET Apps](https://www.youtube.com/watch?v=p8cAYgBIER8&list=WL&index=31)
+* [this, bind, call and apply in Javascript](https://blog.bitsrc.io/understanding-call-bind-and-apply-methods-in-javascript-33dbf3217be)
