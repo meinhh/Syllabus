@@ -11,3 +11,4 @@
 * [Containers For Existing .NET Apps](https://www.youtube.com/watch?v=p8cAYgBIER8&list=WL&index=31)
 * [this, bind, call and apply in Javascript](https://blog.bitsrc.io/understanding-call-bind-and-apply-methods-in-javascript-33dbf3217be)
 * [Regex Cheatsheet](https://dev.to//emmawedekind/regex-cheat-sheet-2j2a)
+* [Functional Programming](https://www.youtube.com/watch?v=PTbbqsR9twA)
